@@ -1,0 +1,48 @@
+Python:
+print "" = print or displays output
+#(octothorpe) = lets you make a comment within your code
+
+strings = text that you want to display or "export" out of the
+program that you are writing.
+
+math:
++ plus
+- minus
+/ slash (divide)
+* asterisk (multiply
+% percent (modulus) x/y j remainder
+< less than
+> greater than
+<= less than equal
+>= greater than equal
+== test if two things have the same value
+
+variables = naming things
+= assigns value to a variable
+it is good form to add spaces around = to read easier
+ie x = 100 not x=100
+
+floating point number = ie 4.0,5.34
+
+formaters:they tell python to replace with the value to the 
+right remember the % at the end of the print line
+%s string
+%r displays "raw" data of a variable (is best used for 
+debugging)
+%d data
+
+\n = creates a line break in a string; doesnt work with %r
+
+""" = creates a multi line string within print
+
+\ = an escape so that python does not get confused about " and '
+"I'm 6'2\" tall." #escape double quate inside string
+'I'm 6\'2" tall." #escape single quote inside string
+
+\t = tab
+
+raw_input() = has the usr input for a variable
+
+def= a function
+
+import
